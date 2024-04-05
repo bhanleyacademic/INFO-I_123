@@ -6,6 +6,9 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
+    <toc-element topic="April-4th.md"/>
+    <toc-element topic="March-28th.md"/>
+    <toc-element topic="March-19th-Descriptive-Statistics.md"/>
     <toc-element topic="March-5th-Clean-Data.md"/>
     <toc-element topic="February-22nd.md"/>
     <toc-element topic="February-20th.md"/>
